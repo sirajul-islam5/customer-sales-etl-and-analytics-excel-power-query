@@ -23,7 +23,7 @@ The dataset covers 15,180 Danish customer records with intentional quality issue
 ### Raw Data (Before Cleaning)
 ![Raw Data](Raw_Data.png)
 
-### Cleaned Data (After Power Query)
+### Cleaned Data (After Cleaning)
 ![Cleaned Data](Cleaned_Data.png)
 
 ---
