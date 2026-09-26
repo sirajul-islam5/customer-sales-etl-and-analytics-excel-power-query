@@ -1,6 +1,6 @@
 # Customer Sales ETL and Analytics — Power Query & Excel
 
-An ETL and analytics project built in Excel using Power Query. Raw, messy Danish customer sales data was extracted, cleaned, transformed, and loaded into a structured format, then analyzed through a multi-visual Excel dashboard covering revenue, product performance, regional trends, and payment methods. 
+An ETL and analytics project built in Excel using Power Query. Raw, messy Danish customer sales data was extracted, cleaned, transformed, and loaded into a structured format, then analyzed through a multi-visual Excel dashboard covering revenue, product performance, regional trends, and payment methods.  
 
 ---
 
