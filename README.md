@@ -139,14 +139,6 @@ This project is organized across multiple sheets:
 
 ---
 
-## Author
-
-**Md. Sirajul Islam**
-- [linkedin.com/in/md-sirajul-islam57](https://linkedin.com/in/md-sirajul-islam57)
-- [github.com/sirajul-islam5](https://github.com/sirajul-islam5)
-
----
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
